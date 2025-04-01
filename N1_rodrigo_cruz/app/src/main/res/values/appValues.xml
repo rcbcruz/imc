@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings do Projeto -->
+    <string name="appTitulo">Calculadora IMC</string>
+    <string name="btnSet">Calcular</string>
+    <string name="btnReset">Reiniciar</string>
+    <string name="textResultado">-----</string>
+    <string name="textHintPeso">Entre com Peso: </string>
+    <string name="textHintAltura">Entre com Altura:</string>
+
+    <!-- Cores do Projeto -->
+    <color name="appColorVerdeEscuro">#006341</color>
+    <color name="appColorVerdeClaro">#00A859</color>
+    <color name="appColorCinzaEscuro">#4D4D4D</color>
+    <color name="appColorCinzaClaro">#B3B3B3</color>
+    <color name="appColorBranco">#FFFFFF</color>
+
+    <color name="appBackGround">#E8EFE8</color>
+
+</resources>
